@@ -1,0 +1,13 @@
+{
+    "name": "Default",
+    "extensions": [
+        "zhuangtongfa.material-theme",
+        "vscodevim.vim",
+        "golang.go"
+    ],
+    "settings": {
+        "workbench.colorTheme": "One Dark Pro",
+        "workbench.iconTheme": "material-icon-theme",
+        "terminal.integrated.shell.linux": "/bin/zsh"
+    }
+}
